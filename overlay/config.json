@@ -1,0 +1,8 @@
+{
+    "idle_bg": "#333333",
+    "flash_bg": "#c0c0c0",
+    "active_bg": "#5f5f5f",
+    "font_family": "Segoe UI",
+    "win_x": 48,
+    "win_y": 128
+}
